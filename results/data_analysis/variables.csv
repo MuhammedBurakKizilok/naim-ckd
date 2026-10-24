@@ -1,0 +1,25 @@
+ozellik,aciklama,tur,degerler,eksik_sayi,eksik_oran,eksik_ckd,eksik_notckd
+rbc,İdrarda kırmızı kan hücresi,kategorik,normal / abnormal,152,38.0,57.2,6.0
+rc,Kırmızı kan hücresi sayısı (milyon/mm³),sayısal,2.1 – 8 (medyan 4.8),131,32.8,49.6,4.7
+wc,Beyaz kan hücresi sayısı (hücre/mm³),sayısal,2200 – 26400 (medyan 8000),106,26.5,39.6,4.7
+pot,Potasyum (mEq/L),sayısal,2.5 – 47 (medyan 4.4),88,22.0,33.2,3.3
+sod,Sodyum (mEq/L),sayısal,4.5 – 163 (medyan 138),87,21.8,32.8,3.3
+pcv,Paketlenmiş hücre hacmi,sayısal,9 – 54 (medyan 40),71,17.8,26.8,2.7
+pc,Püs hücresi,kategorik,normal / abnormal,65,16.2,22.4,6.0
+hemo,Hemoglobin (g),sayısal,3.1 – 17.8 (medyan 12.65),52,13.0,18.4,4.0
+su,Şeker (idrar),kategorik,0 / 1 / 2 / 3 / 4 / 5,49,12.2,17.6,3.3
+sg,İdrar özgül ağırlığı,kategorik,1.005 / 1.010 / 1.015 / 1.020 / 1.025,47,11.8,16.8,3.3
+al,Albümin,kategorik,0 / 1 / 2 / 3 / 4 / 5,46,11.5,16.4,3.3
+bgr,Rastgele kan şekeri (mg/dl),sayısal,22 – 490 (medyan 121),44,11.0,15.2,4.0
+bu,Kan üre (mg/dl),sayısal,1.5 – 391 (medyan 42),19,4.8,5.2,4.0
+sc,Serum kreatinin (mg/dl),sayısal,0.4 – 76 (medyan 1.3),17,4.2,4.8,3.3
+bp,Kan basıncı (mm/Hg),sayısal,50 – 180 (medyan 80),12,3.0,4.0,1.3
+age,Yaş (yıl),sayısal,2 – 90 (medyan 55),9,2.2,3.2,0.7
+pcc,Püs hücresi kümeleri,kategorik,present / notpresent,4,1.0,0.0,2.7
+ba,Bakteri,kategorik,present / notpresent,4,1.0,0.0,2.7
+htn,Hipertansiyon,kategorik,yes / no,2,0.5,0.0,1.3
+dm,Diyabet,kategorik,yes / no,2,0.5,0.0,1.3
+cad,Koroner arter hastalığı,kategorik,yes / no,2,0.5,0.0,1.3
+appet,İştah,kategorik,good / poor,1,0.2,0.0,0.7
+pe,Ayakta ödem,kategorik,yes / no,1,0.2,0.0,0.7
+ane,Anemi,kategorik,yes / no,1,0.2,0.0,0.7

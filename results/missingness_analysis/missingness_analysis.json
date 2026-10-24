@@ -1,0 +1,22 @@
+{
+  "sadece_eksiklik_ile_LR": {
+    "test_accuracy": 0.7166666666666667,
+    "test_macro_f1": 0.7101449275362319,
+    "cogunluk_sinifi_accuracy": 0.6333333333333333
+  },
+  "egitilmis_NAIM_eksik_token": {
+    "eksik_token_sayisi": 152,
+    "eksik_tokenlar_arasi_max_fark": 0.0,
+    "eksik_token_vektoru": [
+      -0.0835999995470047,
+      -0.22360000014305115,
+      1.0575000047683716,
+      1.2086999416351318,
+      -2.2172999382019043,
+      0.2451999932527542
+    ],
+    "eksik_token_normu": 2.7591845989227295,
+    "mevcut_token_ortalama_normu": 2.4169130325317383,
+    "best_epoch": 51
+  }
+}

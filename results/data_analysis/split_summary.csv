@@ -1,0 +1,4 @@
+set,n,ckd,notckd,ckd_oran,eksik_hucre_orani
+train,280,175,105,62.5,10.3
+val,60,37,23,61.7,11.5
+test,60,38,22,63.3,10.6

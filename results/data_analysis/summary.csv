@@ -1,0 +1,15 @@
+,deger
+hasta_sayisi,400.0
+ozellik_sayisi,24.0
+sayisal,11.0
+kategorik,13.0
+ckd,250.0
+notckd,150.0
+toplam_eksik_hucre_orani_%,10.54
+eksik_orani_ckd_%,15.13
+eksik_orani_notckd_%,2.89
+hic_eksigi_olmayan_hasta,158.0
+hic_eksigi_olmayan_hasta_ckd,43.0
+hic_eksigi_olmayan_hasta_notckd,115.0
+hasta_basi_eksik_medyan,1.0
+hasta_basi_eksik_max,11.0
