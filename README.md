@@ -121,7 +121,8 @@ naim-ckd/
   CKD yapılandırması içermez. Bu yüzden deney altyapısı (veri okuma, sabit 70/15/15 ayrım, ortak maskeler,
   seed tekrarları, metrikler) `src/` altında yeniden yazıldı.
 - `train_naim` fonksiyonu yazarların `TrainManager` mantığının sadeleştirilmiş bir kopyasıdır
-  (Adam, batch 32, LR 1e-3 → 1e-7, 50 epoch ısınma, 50 epoch sabırlı erken durdurma, L1 ve L2 cezası 1e-4).
+  (Adam, batch size 32, LR 1e-3 → 1e-7 (ReduceLROnPlateau, patience 25), min. 50 epoch,
+  early stopping patience 50, L1 ve L2 regularization 1e-4).
   Varsayılan ölçüt yazarların kodundaki gibi validation AUC'dir; `--stop-metric loss` validation loss kullanır.
 - Ön işleme istatistikleri (min-max, medyan, en sık değer) yalnızca train setinden öğrenilir.
 
